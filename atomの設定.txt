@@ -1,0 +1,14 @@
+①config.csonに下記を追加
+  runner:
+    scopes:
+      python: "C:/Users/324486/Anaconda3/python"
+
+②以下を参考に、anaconda内のpythonの実行ファイルを環境変数に加える
+http://at.hatenadiary.com/entry/2017/07/02/001500
+
+
+その他
+・スニペットによく使う設定を入れておく
+
+hydrogenの設定法
+①http://at.hatenadiary.com/entry/2017/07/02/001500
